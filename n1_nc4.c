@@ -1,15 +1,20 @@
 #include <stdio.h>
 
 int.main(){
-  int. idade = 25;
-  int. quantidade = 1;
-  float. altura = 1.85;
-  double. peso = 88;
-  char. letra ='A';
+  int. idade;
+  int. quantidade;
+  float. altura;
+  double. peso;
+  char. letra ;
   char. nome[20];
 
+  idade = 25;
+  quantidade = 1;
+  alrura = 1.85;
+  peso = 88;
+  letar = 'A';
+  nome [20] = "waldyr";
 
 
 
-
-}
+ }
