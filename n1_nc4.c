@@ -15,6 +15,22 @@ int.main(){
   letar = 'A';
   nome [20] = "waldyr";
 
+  printf("A idade do %s, %d", nome, idade);
+  printf("A altura é :%en", altura);
+  printf("A opção é :%cn, opção);
 
+    /*
+    printf("%formato1, %formato2, %formato3",variavel1, variavel2, variavel3);
+    %d: Imprime inteiro em formato decimal;
+    %i: Equivalente a %d;
+  
+
+
+
+
+
+
+
+  
 
  }
