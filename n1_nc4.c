@@ -16,8 +16,8 @@ int.main(){
   nome [20] = "waldyr";
 
   printf("A idade do %s, %d\n", nome, idade);
-  printf("A altura é :%e\n", altura);
-  printf("A opção é :%c\n, opção);
+  printf("A altura é:%e\n", altura);
+  printf("A opção é:%c\n, opção);
 
     /*
     printf("%formato1, %formato2, %formato3",variavel1, variavel2, variavel3);
