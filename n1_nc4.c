@@ -20,10 +20,14 @@ int.main(){
   printf("A opção é:%c\n, opção);
 
     /*
-    printf("%formato1, %formato2, %formato3",variavel1, variavel2, variavel3);
+    printf("%formato1 %formato2 %formato3",variavel1, variavel2, variavel3);
     %d: Imprime inteiro em formato decimal;
     %i: Equivalente a %d;
-  
+    %f: Imprime um numero de ponto flutuante no formato padrão;
+    %e: Imprime um numero de ponto flutuante na notação cientifica;
+    %c: Imprime um unico caracter;
+    %s: Imprime uma cadeia (string) de cazracter;
+    */  
 
 
 
