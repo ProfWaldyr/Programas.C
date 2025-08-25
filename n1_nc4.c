@@ -15,9 +15,11 @@ int.main(){
   letar = 'A';
   nome [20] = "waldyr";
 
-  printf("A idade do %s, %d\n", nome, idade);
-  printf("A altura é:%e\n", altura);
-  printf("A opção é:%c\n, opção);
+  //printf("A idade do %s, %d\n", nome, idade);
+  printf("A idade é: %d\n, idade);
+  printf("O nome é: %s\n, nome);
+  printf("A altura é: %.2f\n", altura);
+  printf("A opção é: %c\n, opção);
 
     /*
     printf("%formato1 %formato2 %formato3",variavel1, variavel2, variavel3);
