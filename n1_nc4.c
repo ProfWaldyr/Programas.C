@@ -1,24 +1,20 @@
 #include <stdio.h>
-int.main(){
-int. idade;
-  int. quantidade;
-  float. altura;
-  double. peso;
-  char. letra ;
-  char. nome[20];
-
-  idade = 25;
-  quantidade = 1;
-  alrura = 1.85;
-  peso = 88;
-  letar = 'A';
-  nome [20] = "waldyr";
-
-  //printf("A idade do %s, %d\n", nome, idade);
-  printf("A idade é: %d\n, idade);
-  printf("O nome é: %s\n, nome);
-  printf("A altura é: %.2f\n", altura);
-  printf("A opção é: %c\n, opção);
+ 
+int main() {
+    int idade = 25;
+    float altura = 1.75;
+    double saldoBancario = 12345,67;
+    char inicial = 'W';
+    char nome[30] = "Waldyr Rodrigues Netto";
+ 
+    printf("Idade: %d anos\n", idade);
+    printf("Altura: %.2f metros\n", altura);
+    printf("Saldo Bancário: %.2f reais\n", saldoBancario);
+    printf("Inicial do Nome: %c\n", inicial);
+    printf("Nome: %s\n", nome);
+ 
+    return 0;
+}
 
     /*
     printf("%formato1 %formato2 %formato3",variavel1, variavel2, variavel3);
