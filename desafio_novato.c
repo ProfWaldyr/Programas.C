@@ -10,10 +10,10 @@ int main() {
     int pontos_turisticos; 
 
     printf("Estado: %s \n", estado_1);
-    printf("Código da Carta: %s \n", cod_cta_01);
+   
     
     printf("Estado: %s \n", estado_2);
-    printf("Código da Carta: %s \n", cod_cta_02);
+   
 
 }
   
