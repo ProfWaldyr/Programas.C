@@ -17,7 +17,7 @@ int main(){
     printf("digite sua matrícula \n");
     scanf("%d", &matricula);
 
-    printf("Nome do aluno: %s - Matricula: %d ", nome, matricula);
+    printf("Nome do aluno: %s - Matricula: %d\n", nome, matricula);
     printf("Idade: %d - Altura: %f", idade, altura);
 
     return 0;
