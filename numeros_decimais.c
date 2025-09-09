@@ -12,10 +12,10 @@ int main() {
 
  
 // Exibição dos resultados
-    printf("Soma: %d\n", soma);
-    printf("Subtração: %d\n", diferenca);
-    printf("Multiplicação: %d\n", produto);
-    printf("Divisão: %d\n", quociente);
+    printf("Soma: %.2d\n", soma);
+    printf("Subtração: %.2d\n", diferenca);
+    printf("Multiplicação: %.2d\n", produto);
+    printf("Divisão: %.2d\n", quociente);
 
     return 0;
 
