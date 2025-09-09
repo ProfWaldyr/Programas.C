@@ -2,6 +2,9 @@
  
 int main() {
     
+    int x = 10;
+    int y = 3;
+
     int Soma = x + y;
     int Diferenca = x - y;
     int Produto = x * y;
@@ -11,8 +14,6 @@ int main() {
     float diferenca = x - y;
     float produto = x * y;
     float quociente = x / y;
-
-
 
 
 // Exibição dos resultados
