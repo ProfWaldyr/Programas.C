@@ -11,6 +11,10 @@ int main() {
     float PIB_1 = 190.2, PIB_2 = 98.1;
     int pontos_tur_1 = 15 , pontos_tur_2 = 28; 
 
+    float densidade_1 = populacao_1 * area_1;
+    float densidade_2 = populacao_2 * area_2;
+
+
     printf("Carta: %d \n", carta_1);
     printf("Estado: %s \n", estado_1);
     printf("Código Cidade: %s \n", cod_01);
@@ -18,7 +22,8 @@ int main() {
     printf("População: %d \n", populacao_1);
     printf("Area em km2: %.2f \n", area_1);
     printf("PIB em milhões: %.1f \n", PIB_1);
-    printf("Número de pontos turísticos: %d \n\n", pontos_tur_1);
+    printf("Número de pontos turísticos: %d \n", pontos_tur_1);
+    printf("A densidade é igual: %.2f \n\n", densidade_1);
     
     printf("Carta: %d \n", carta_2);
     printf("Estado: %s \n", estado_2);
@@ -27,7 +32,8 @@ int main() {
     printf("População: %d \n", populacao_2);
     printf("Area km2: %.2f \n", area_2);
     printf("PIB em milhões: %.1f \n", PIB_2);
-    printf("Número de pontos turísticos: %d \n\n", pontos_tur_2);
+    printf("Número de pontos turísticos: %d \n", pontos_tur_2);
+    printf("A densidade é igual: %.2f \n", densidade_2);
 }
   
     
