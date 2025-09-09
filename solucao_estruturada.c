@@ -10,3 +10,16 @@ float calcularMedia() {
     // código para a função calcularMedia
 }
  
+// Função genérica para exibir dados
+void exibirMedia() {
+    // código para a função exibirMedia
+}
+ 
+int main() {
+ 
+    entradaDados();
+    media = calcularMedia();
+    exibirMedia();
+ 
+    return 0;
+}
