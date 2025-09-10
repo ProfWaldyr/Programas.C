@@ -8,7 +8,7 @@ int main() {
 
   printf("Numero Grande Positivo: %lu \n",numeroGrandePositivo);
   printf("Número Positivo: %u \n", numeroPositivo);
-  printf("Número Grande: %lld \n", mnumeroGrande);
+  printf("Número Grande: %lld \n", numeroGrande);
   printf("Número: %d \n", numero);
 
   return: 0;
