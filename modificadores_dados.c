@@ -11,6 +11,6 @@ int main() {
   printf("Número Grande: %lld \n", numeroGrande);
   printf("Número: %d \n", numero);
 
-  return: 0;
+  return 0;
 
 }
