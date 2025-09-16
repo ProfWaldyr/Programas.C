@@ -14,7 +14,9 @@ printf( "Digite a sua idade: \n");
 scanf ("%d",&idade);
 
 printf( "Digite a sua renda mensal: \n");
-scanf ("%d",&idade);
+scanf ("%d",&renda);
+
+if( idade >)
 
 
 
