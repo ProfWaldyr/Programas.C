@@ -10,6 +10,17 @@ int main(){
 // A pessoa deve ter mais de 60 anos e menos de 18 e uma renda
 // menor que 2000 mil;
 
+printf( "Digite a sua idade: \n");
+scanf ("%d",&idade);
+
+printf( "Digite a sua renda mensal: \n");
+scanf ("%d",&idade);
+
+
+
+}
+
+
 
 
 
