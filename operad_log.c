@@ -4,9 +4,9 @@ int main(){
 
     int a = -10 , b = 4;
 
-    if ( a > 0 && b > 0)
+    if ( a < 0 && b < 0)
     
-    { printf("Os dois numeros são positivos \n");
+    { printf("Os dois numeros são negativos \n");
     }
 
     else
