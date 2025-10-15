@@ -1,4 +1,7 @@
 
+// o programa faz um divisão por 2 enquato o resto for <> de 0;
+// sempre estará solicitando um número a  menos que digite um número par;
+
 #include <stdio.h>
 
 int main(){
